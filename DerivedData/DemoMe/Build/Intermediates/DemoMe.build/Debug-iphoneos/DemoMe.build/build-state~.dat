@@ -1,0 +1,412 @@
+TDemoMe
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist
+cProcessPCH /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe normal armv7
+cCopyStringsFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/en.lproj/InfoPlist.strings DemoMe/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets
+cProcessInfoPlistFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Info.plist /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist
+cGenerateDSYMFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app.dSYM /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe
+cProcessProductPackaging /Users/bivachon22/Library/MobileDevice/Provisioning\ Profiles/1FA0E111-DF48-4914-9093-910D9FC6A8C9.mobileprovision /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/embedded.mobileprovision
+cTouch /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent
+cCodeSign /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000528189F70000000000000110
+t1384221175
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c00000000523B3EF10000000000000094
+t1379614449
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000523B3EF10000000000000096
+t1379614449
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000523B3EF1000000000000036B
+t1379614449
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005268BF5500000000000001A0
+t1382596437
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005268BF5700000000004D63C0
+t1382596439
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005268BF5A0000000000A92BC0
+t1382596442
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005268D8B200000000025A5AC0
+t1382602930
+s39475904
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523B3F5D0000000000000AC9
+t1379614557
+s2761
+
+N/Users/bivachon22/Library/MobileDevice/Provisioning Profiles/1FA0E111-DF48-4914-9093-910D9FC6A8C9.mobileprovision
+c000000005253586F000000000000264E
+t1381193839
+s9806
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m
+c0000000052A1EC5C00000000000007E1
+t1386343516
+s2017
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard
+c0000000052A1F45A0000000000006103
+t1386345562
+s24835
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist
+c0000000052A1EC5C00000000000004C8
+t1386343516
+s1224
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Prefix.pch
+c0000000052A1EC5C0000000000000158
+t1386343516
+s344
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets
+c0000000052A1EC5C0000000000000088
+t1386343516
+s136
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m
+c0000000052A1EC5C00000000000001F7
+t1386343516
+s503
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/en.lproj/InfoPlist.strings
+c0000000052A1EC5C000000000000002D
+t1386343516
+s45
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m
+c0000000052A1EC5C000000000000015B
+t1386343516
+s347
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent
+t1386346116
+s410
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.o
+t1386346113
+s64516
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/DemoMe.LinkFileList
+c0000000052A1F67E00000000000001D0
+t1386346110
+s464
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.o
+t1386346113
+s41120
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.o
+t1386346113
+s3756
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/assetcatalog_dependencies.txt
+t1386346116
+s412
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/assetcatalog_generated_info.plist
+t1386346116
+s525
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch.pch
+t1386346112
+s80240
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app
+t1386346116
+s374
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app.dSYM
+t2
+s0
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Base.lproj/Main.storyboardc
+t1386346116
+s306
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe
+t1386346114
+s53856
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Info.plist
+t1386346116
+s1290
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/PkgInfo
+t1386346116
+s8
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist
+t1386346110
+s150
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/embedded.mobileprovision
+t1386346116
+s9806
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/en.lproj/InfoPlist.strings
+t1386346114
+s42
+
+CBuild AST from /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m
+r0
+
+CBuild AST from /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m
+r0
+
+CBuild AST from /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies821c94fe2d52b841^d97ca0fe2d52b841^---0#1#1#--18"Check dependencies36"23329773-A059-4F46-AD55-17D2672E1263-
+
+CCodeSign /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app
+s408038916.908434
+e408038917.269905
+r1
+xCodeSign
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CodeSign DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app68"CodeSign DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app6d03eb042e52b841^bd1d45052e52b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/0000000000000000^1087"CodeSign DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Emiliano Bivachi (6RK8PSKEB2)" and provisioning profile "My Second Development Provisioning Profile" (1FA0E111-DF48-4914-9093-910D9FC6A8C9)    codesign --force --sign 5DCCF3B85BE42E4A4C01F87F00E975D461AF24A5 --resource-rules=/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist --entitlements /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app36"186F470B-75AC-4E24-BA32-E34296CE1030-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CCompileAssetCatalog /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets
+s408038914.618590
+e408038916.489526
+r1
+xCompileAssetCatalog
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/LaunchImage-700-568h@2x.png
+o/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Assets.car
+o/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CompileAssetCatalog DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app DemoMe/Images.xcassets102"CompileAssetCatalog DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app DemoMe/Images.xcassetse36c9e022e52b841^0b617d042e52b841^-440"/* com.apple.actool.compilation-results *//Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/LaunchImage-700-568h@2x.png/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Assets.car/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@71"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets/0000000000000000^1129"CompileAssetCatalog DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app DemoMe/Images.xcassets    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets36"E567A8BD-008E-4321-8AAD-4F3D18890B3A-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408038912.996366
+e408038913.362403
+r1
+xCompileC
+xDerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.o
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m213"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.o DemoMe/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6c26ff002e52b841^69c85c012e52b841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m0000000000000000^3717"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.o DemoMe/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-generated-files.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-own-target-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-all-target-headers.hmap -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-project-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DerivedSources/armv7 -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DerivedSources -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos -include /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch -MMD -MT dependencies -MF /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.dia -c /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.o36"22EB82E0-2B76-4DA7-9D44-7941AB9EE432-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408038912.995892
+e408038913.360946
+r1
+xCompileC
+xDerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.o
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m219"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.o DemoMe/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf60aff002e52b841^fe7f5c012e52b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m0000000000000000^3735"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.o DemoMe/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-generated-files.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-own-target-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-all-target-headers.hmap -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-project-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DerivedSources/armv7 -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DerivedSources -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos -include /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch -MMD -MT dependencies -MF /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.dia -c /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.o36"493BCB5A-13CC-41E7-8B11-6275FD0401C8-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408038913.361250
+e408038913.423203
+r1
+xCompileC
+xDerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.o
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m199"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.o DemoMe/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2c9c5c012e52b841^d36a6c012e52b841^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m0000000000000000^3675"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.o DemoMe/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-generated-files.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-own-target-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-all-target-headers.hmap -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-project-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DerivedSources/armv7 -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DerivedSources -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos -include /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch -MMD -MT dependencies -MF /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.dia -c /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.o36"E044721E-2569-463C-A1E3-6FA40E0DE4B4-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CCompileStoryboard /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard
+s408038914.617351
+e408038916.809576
+r1
+xCompileStoryboard
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"CompileStoryboard DemoMe/Base.lproj/Main.storyboard51"CompileStoryboard DemoMe/Base.lproj/Main.storyboardef1c9e022e52b841^d540cf042e52b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard0000000000000000^802"CompileStoryboard DemoMe/Base.lproj/Main.storyboard    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Base.lproj/Main.storyboardc /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard36"EE47FAB7-A0D1-493A-A9F7-A00DF90824B5-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CCopyStringsFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/en.lproj/InfoPlist.strings DemoMe/en.lproj/InfoPlist.strings
+s408038914.616173
+e408038914.618426
+r1
+xCopyStringsFile
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/en.lproj/InfoPlist.strings
+xDemoMe/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy DemoMe/en.lproj/InfoPlist.strings136"CopyStringsFile DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/en.lproj/InfoPlist.strings DemoMe/en.lproj/InfoPlist.strings6bd29d022e52b841^b8409e022e52b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/en.lproj/InfoPlist.strings0000000000000000^610"CopyStringsFile DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/en.lproj/InfoPlist.strings DemoMe/en.lproj/InfoPlist.strings    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/en.lproj -- DemoMe/en.lproj/InfoPlist.strings36"EA306965-B018-47E1-B54A-6BD87DEB53E2-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist
+s408038910.667873
+e408038910.670075
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xDerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist212"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist9b1fabfe2d52b841^d0d5b6fe2d52b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist00340047dfffdf42^784"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app36"AF452244-EB5E-45CF-9552-AF955ACAF636-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CGenerateDSYMFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app.dSYM /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe
+s408038916.813132
+e408038916.876556
+r1
+xGenerateDSYMFile
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app.dSYM
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Generate /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app.dSYM148"GenerateDSYMFile DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app.dSYM DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe3739d0042e52b841^6075e0042e52b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app.dSYM00340047dfffdf42^702"GenerateDSYMFile DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app.dSYM DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app.dSYM36"F270BE69-88B4-420F-9287-88F7A1442C4A-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CLd /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe normal armv7
+s408038913.424176
+e408038914.615130
+r1
+xLd
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe
+xnormal
+xarmv7
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/DemoMe.LinkFileList
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/ViewController.o
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/AppDelegate.o
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe82"Ld DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe normal armv709a86c012e52b841^209a9d022e52b841^---0#0#1#--1386"Ld DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe normal armv7    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos -filelist /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/DemoMe.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/Objects-normal/armv7/DemoMe_dependency_info.dat -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/DemoMe36"E233EA05-DE67-4FEB-9DB6-900B6AE155AA-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CProcessInfoPlistFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Info.plist /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist
+s408038916.810203
+e408038916.812648
+r1
+xProcessInfoPlistFile
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Info.plist
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Process /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist116"ProcessInfoPlistFile DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Info.plist DemoMe/DemoMe-Info.plist637dcf042e52b841^b309d0042e52b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist0000000000000000^1057"ProcessInfoPlistFile DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Info.plist DemoMe/DemoMe-Info.plist    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist -genpkginfo /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/ResourceRules.plist -additionalcontentfile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/assetcatalog_generated_info.plist -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/Info.plist36"B4206ACC-FD8F-4F38-B005-58AAD86513D3-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CProcessPCH /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408038910.671282
+e408038912.994608
+r1
+xProcessPCH
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch.pch
+xDemoMe/DemoMe-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile DemoMe/DemoMe-Prefix.pch227"ProcessPCH DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa08acfe2d52b841^b29efe002e52b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Prefix.pch0000000000000000^3593"ProcessPCH DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-generated-files.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-own-target-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-all-target-headers.hmap -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe-project-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DerivedSources/armv7 -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DerivedSources -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch.dia -MMD -MT dependencies -MF /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch.d -c /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Prefix.pch -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-hjzfdgwoapqkdtbgjkueuvtckata/DemoMe-Prefix.pch.pch36"F6735941-B397-4D30-A649-BEE95EA5CCA6-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CProcessPCH /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Index/PrecompiledHeaders/DemoMe-Prefix-fsauoexbkthucyeczcnctqhtunbe_ast/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent
+s408038916.905769
+e408038916.907945
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection237"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent237"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent41f5e7042e52b841^3370e8042e52b841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent00340047dfffdf42^794"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphoneos/DemoMe.build/DemoMe.xcent36"636BADC7-D984-4D82-887A-50E3BA12146C-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CProcessProductPackaging /Users/bivachon22/Library/MobileDevice/Provisioning\ Profiles/1FA0E111-DF48-4914-9093-910D9FC6A8C9.mobileprovision /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/embedded.mobileprovision
+s408038916.877239
+e408038916.904333
+r1
+xProcessProductPackaging
+x/Users/bivachon22/Library/MobileDevice/Provisioning Profiles/1FA0E111-DF48-4914-9093-910D9FC6A8C9.mobileprovision
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection223"ProcessProductPackaging /Users/bivachon22/Library/MobileDevice/Provisioning\ Profiles/1FA0E111-DF48-4914-9093-910D9FC6A8C9.mobileprovision DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/embedded.mobileprovision223"ProcessProductPackaging /Users/bivachon22/Library/MobileDevice/Provisioning\ Profiles/1FA0E111-DF48-4914-9093-910D9FC6A8C9.mobileprovision DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/embedded.mobileprovision16a5e0042e52b841^e292e7042e52b841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/embedded.mobileprovision00340047dfffdf42^740"ProcessProductPackaging /Users/bivachon22/Library/MobileDevice/Provisioning\ Profiles/1FA0E111-DF48-4914-9093-910D9FC6A8C9.mobileprovision DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/embedded.mobileprovision    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/bivachon22/Library/MobileDevice/Provisioning\ Profiles/1FA0E111-DF48-4914-9093-910D9FC6A8C9.mobileprovision -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app/embedded.mobileprovision36"D96C97E4-285B-4DFE-A8E9-1BBD56E0B766-
+b8E576115-57EC-48F7-B265-13B1ED8AE2BB
+
+CTouch /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphoneos/DemoMe.app
+r0
+

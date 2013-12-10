@@ -1,0 +1,362 @@
+TDemoMe
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe normal i386
+cCopyStringsFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/en.lproj/InfoPlist.strings DemoMe/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets
+cProcessInfoPlistFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Info.plist /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist
+cGenerateDSYMFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app.dSYM /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe
+cTouch /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052818A120000000000000176
+t1384221202
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523B3F1400000000000003B5
+t1379614484
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005268D8C900000000000001A0
+t1382602953
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005268D8CC0000000000445870
+t1382602956
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005268D8CE000000000088C680
+t1382602958
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005268D8D40000000001DB9910
+t1382602964
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523B3F5D0000000000000AC9
+t1379614557
+s2761
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m
+c0000000052A1EC5C00000000000007E1
+t1386343516
+s2017
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard
+c0000000052A1F45A0000000000006103
+t1386345562
+s24835
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist
+c0000000052A1EC5C00000000000004C8
+t1386343516
+s1224
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Prefix.pch
+c0000000052A1EC5C0000000000000158
+t1386343516
+s344
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets
+c0000000052A1EC5C0000000000000088
+t1386343516
+s136
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m
+c0000000052A1EC5C00000000000001F7
+t1386343516
+s503
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/en.lproj/InfoPlist.strings
+c0000000052A1EC5C000000000000002D
+t1386343516
+s45
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m
+c0000000052A1EC5C000000000000015B
+t1386343516
+s347
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.o
+t1386346140
+s65232
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/DemoMe.LinkFileList
+c0000000052A1F69800000000000001E2
+t1386346136
+s482
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.o
+t1386346140
+s41012
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.o
+t1386346140
+s3656
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/assetcatalog_dependencies.txt
+t1386346141
+s433
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/assetcatalog_generated_info.plist
+t1386346141
+s525
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch.pch
+t1386346139
+s108184
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app
+t1386346142
+s306
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app.dSYM
+t2
+s0
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Base.lproj/Main.storyboardc
+t1386346142
+s306
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe
+t1386346141
+s17052
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Info.plist
+t1386346142
+s1009
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/PkgInfo
+t1386346142
+s8
+
+N/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/en.lproj/InfoPlist.strings
+t1386346141
+s42
+
+CBuild AST from /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m
+r0
+
+CBuild AST from /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m
+r0
+
+CBuild AST from /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa35c76182e52b841^f0df9c182e52b841^---0#1#1#--18"Check dependencies36"49B6FE8C-0CCB-427D-B6A6-648912388245-
+
+CCompileAssetCatalog /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets
+s408038941.152124
+e408038941.629348
+r1
+xCompileAssetCatalog
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/LaunchImage-700-568h@2x.png
+o/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Assets.car
+o/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CompileAssetCatalog DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app DemoMe/Images.xcassets109"CompileAssetCatalog DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app DemoMe/Images.xcassets0308271d2e52b841^ff25a11d2e52b841^-461"/* com.apple.actool.compilation-results *//Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/LaunchImage-700-568h@2x.png/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Assets.car/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@71"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets/0000000000000000^1216"CompileAssetCatalog DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app DemoMe/Images.xcassets    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Images.xcassets36"4DA20894-DBC9-4A17-814E-125F33DB7268-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408038939.845428
+e408038940.020453
+r1
+xCompileC
+xDerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.o
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m218"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.o DemoMe/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4c89d81b2e52b841^3d61051c2e52b841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m0000000000000000^3890"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.o DemoMe/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-generated-files.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-own-target-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-all-target-headers.hmap -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-project-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DerivedSources/i386 -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DerivedSources -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator -include /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch -MMD -MT dependencies -MF /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.dia -c /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.m -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.o36"D6772812-3D2A-4522-8A37-37C9ED82126E-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408038939.844895
+e408038940.016702
+r1
+xCompileC
+xDerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.o
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m224"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.o DemoMe/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdc64d81b2e52b841^a704041c2e52b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m0000000000000000^3908"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.o DemoMe/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-generated-files.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-own-target-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-all-target-headers.hmap -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-project-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DerivedSources/i386 -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DerivedSources -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator -include /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch -MMD -MT dependencies -MF /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.dia -c /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/ViewController.m -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.o36"7E07E52A-4E89-49BB-9EE2-148769107F2C-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CCompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.o /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408038940.017145
+e408038940.057939
+r1
+xCompileC
+xDerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.o
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m204"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.o DemoMe/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbf7e041c2e52b841^5fef0e1c2e52b841^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m0000000000000000^3848"CompileC DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.o DemoMe/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-generated-files.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-own-target-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-all-target-headers.hmap -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-project-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DerivedSources/i386 -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DerivedSources -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator -include /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch -MMD -MT dependencies -MF /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.dia -c /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/main.m -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.o36"A7A2309D-38F8-40E3-970D-B324E8C1DA6E-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CCompileStoryboard /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard
+s408038941.150718
+e408038942.297024
+r1
+xCompileStoryboard
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"CompileStoryboard DemoMe/Base.lproj/Main.storyboard51"CompileStoryboard DemoMe/Base.lproj/Main.storyboard50a9261d2e52b841^8d0a4c1e2e52b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard0000000000000000^861"CompileStoryboard DemoMe/Base.lproj/Main.storyboard    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Base.lproj/Main.storyboardc /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/Base.lproj/Main.storyboard36"F10584E8-3F23-4857-97CE-2B2DEE50C204-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CCopyStringsFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/en.lproj/InfoPlist.strings DemoMe/en.lproj/InfoPlist.strings
+s408038941.149561
+e408038941.151596
+r1
+xCopyStringsFile
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/en.lproj/InfoPlist.strings
+xDemoMe/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy DemoMe/en.lproj/InfoPlist.strings143"CopyStringsFile DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/en.lproj/InfoPlist.strings DemoMe/en.lproj/InfoPlist.strings815c261d2e52b841^24d2261d2e52b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/en.lproj/InfoPlist.strings0000000000000000^631"CopyStringsFile DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/en.lproj/InfoPlist.strings DemoMe/en.lproj/InfoPlist.strings    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/en.lproj -- DemoMe/en.lproj/InfoPlist.strings36"C3E59440-6DB3-4E58-A241-5BC5AD2BE573-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CGenerateDSYMFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app.dSYM /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe
+s408038942.300066
+e408038942.315941
+r1
+xGenerateDSYMFile
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app.dSYM
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generate /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app.dSYM162"GenerateDSYMFile DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app.dSYM DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe1ade4c1e2e52b841^c7f0501e2e52b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app.dSYM00340047dfffdf42^737"GenerateDSYMFile DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app.dSYM DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app.dSYM36"2E70C3D0-7BAA-404D-8D19-E50338947B52-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CLd /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe normal i386
+s408038940.059338
+e408038941.148369
+r1
+xLd
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe
+xnormal
+xi386
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/DemoMe.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/ViewController.o
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/AppDelegate.o
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Link /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe88"Ld DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe normal i3861c440f1c2e52b841^de1c261d2e52b841^---0#0#1#--1505"Ld DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe normal i386    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator -filelist /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/DemoMe.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/Objects-normal/i386/DemoMe_dependency_info.dat -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/DemoMe36"9308BA93-1A9C-4737-A84D-1856882EC00E-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CProcessInfoPlistFile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Info.plist /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist
+s408038942.297613
+e408038942.299578
+r1
+xProcessInfoPlistFile
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Info.plist
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Process /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist123"ProcessInfoPlistFile DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Info.plist DemoMe/DemoMe-Info.plistd53f4c1e2e52b841^96b24c1e2e52b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist0000000000000000^959"ProcessInfoPlistFile DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Info.plist DemoMe/DemoMe-Info.plist    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Info.plist -genpkginfo /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/assetcatalog_generated_info.plist -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app/Info.plist36"DFAC337D-CAEB-4867-BF16-F2A16CE6B2A2-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CProcessPCH /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408038936.614146
+e408038939.844154
+r1
+xProcessPCH
+x/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch.pch
+xDemoMe/DemoMe-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile DemoMe/DemoMe-Prefix.pch226"ProcessPCH DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler87509d182e52b841^a81bd81b2e52b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Prefix.pch0000000000000000^3742"ProcessPCH DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bivachon22/ProgObjC/meComm/DemoMe    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-generated-files.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-own-target-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-all-target-headers.hmap -iquote /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DemoMe-project-headers.hmap -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DerivedSources/i386 -I/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/DemoMe.build/Debug-iphonesimulator/DemoMe.build/DerivedSources -F/Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch.dia -MMD -MT dependencies -MF /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch.d -c /Users/bivachon22/ProgObjC/meComm/DemoMe/DemoMe/DemoMe-Prefix.pch -o /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Intermediates/PrecompiledHeaders/DemoMe-Prefix-ehepcikzgyxnjpfpiyydjiuwxpcr/DemoMe-Prefix.pch.pch36"A9460AEA-7E2F-4A0F-89FB-FCCB56D2B5B1-
+b23B3972C-F20A-46A4-AE3C-DF291A7436D9
+
+CProcessPCH /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Index/PrecompiledHeaders/DemoMe-Prefix-alvksmtptsunfbasgdrtbzcggmzz_ast/DemoMe-Prefix.pch.pch DemoMe/DemoMe-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/bivachon22/ProgObjC/meComm/DemoMe/DerivedData/DemoMe/Build/Products/Debug-iphonesimulator/DemoMe.app
+r0
+

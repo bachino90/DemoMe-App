@@ -21,6 +21,23 @@
 		0E0CFD10185223DC001FC449 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E0CFCF2185223DC001FC449 /* UIKit.framework */; };
 		0E0CFD18185223DC001FC449 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0E0CFD16185223DC001FC449 /* InfoPlist.strings */; };
 		0E0CFD1A185223DC001FC449 /* DemoMeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD19185223DC001FC449 /* DemoMeTests.m */; };
+		0E0CFD2518523E27001FC449 /* BilleteraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD2418523E27001FC449 /* BilleteraViewController.m */; };
+		0E0CFD2B18523E63001FC449 /* AddTarjetaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD2A18523E63001FC449 /* AddTarjetaViewController.m */; };
+		0E0CFD2E18523E75001FC449 /* FacturaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD2D18523E75001FC449 /* FacturaViewController.m */; };
+		0E0CFD3118523E9A001FC449 /* PagarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD3018523E9A001FC449 /* PagarViewController.m */; };
+		0E0CFD3418523EFC001FC449 /* ComprasViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD3318523EFC001FC449 /* ComprasViewController.m */; };
+		0E0CFD3718523F86001FC449 /* ElegirTarjetaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD3618523F86001FC449 /* ElegirTarjetaViewController.m */; };
+		0E0CFD3B18524085001FC449 /* Tarjeta.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD3A18524085001FC449 /* Tarjeta.m */; };
+		0E0CFD4E185240A1001FC449 /* BTAES.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD3E185240A1001FC449 /* BTAES.m */; };
+		0E0CFD4F185240A1001FC449 /* BTEncryption.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD41185240A1001FC449 /* BTEncryption.m */; };
+		0E0CFD50185240A1001FC449 /* BTHmac.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD44185240A1001FC449 /* BTHmac.m */; };
+		0E0CFD51185240A1001FC449 /* BTRandom.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD46185240A1001FC449 /* BTRandom.m */; };
+		0E0CFD52185240A1001FC449 /* BTRSA.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD48185240A1001FC449 /* BTRSA.m */; };
+		0E0CFD53185240A1001FC449 /* BTSecKeyWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD4A185240A1001FC449 /* BTSecKeyWrapper.m */; };
+		0E0CFD54185240A1001FC449 /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E0CFD4C185240A1001FC449 /* NSData+Base64.m */; };
+		0E0CFD55185240A1001FC449 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0E0CFD4D185240A1001FC449 /* README.md */; };
+		0E3162901853864D00DDF28C /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E31628F1853864D00DDF28C /* Security.framework */; };
+		0EF2F53B1852A1B100B84C33 /* Billetera.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2F53A1852A1B100B84C33 /* Billetera.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +70,40 @@
 		0E0CFD15185223DC001FC449 /* DemoMeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DemoMeTests-Info.plist"; sourceTree = "<group>"; };
 		0E0CFD17185223DC001FC449 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0E0CFD19185223DC001FC449 /* DemoMeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoMeTests.m; sourceTree = "<group>"; };
+		0E0CFD2318523E27001FC449 /* BilleteraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BilleteraViewController.h; sourceTree = "<group>"; };
+		0E0CFD2418523E27001FC449 /* BilleteraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BilleteraViewController.m; sourceTree = "<group>"; };
+		0E0CFD2918523E63001FC449 /* AddTarjetaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddTarjetaViewController.h; sourceTree = "<group>"; };
+		0E0CFD2A18523E63001FC449 /* AddTarjetaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddTarjetaViewController.m; sourceTree = "<group>"; };
+		0E0CFD2C18523E75001FC449 /* FacturaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FacturaViewController.h; sourceTree = "<group>"; };
+		0E0CFD2D18523E75001FC449 /* FacturaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FacturaViewController.m; sourceTree = "<group>"; };
+		0E0CFD2F18523E9A001FC449 /* PagarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PagarViewController.h; sourceTree = "<group>"; };
+		0E0CFD3018523E9A001FC449 /* PagarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PagarViewController.m; sourceTree = "<group>"; };
+		0E0CFD3218523EFC001FC449 /* ComprasViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ComprasViewController.h; sourceTree = "<group>"; };
+		0E0CFD3318523EFC001FC449 /* ComprasViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ComprasViewController.m; sourceTree = "<group>"; };
+		0E0CFD3518523F86001FC449 /* ElegirTarjetaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ElegirTarjetaViewController.h; sourceTree = "<group>"; };
+		0E0CFD3618523F86001FC449 /* ElegirTarjetaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ElegirTarjetaViewController.m; sourceTree = "<group>"; };
+		0E0CFD3918524085001FC449 /* Tarjeta.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tarjeta.h; sourceTree = "<group>"; };
+		0E0CFD3A18524085001FC449 /* Tarjeta.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tarjeta.m; sourceTree = "<group>"; };
+		0E0CFD3D185240A1001FC449 /* BTAES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTAES.h; sourceTree = "<group>"; };
+		0E0CFD3E185240A1001FC449 /* BTAES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTAES.m; sourceTree = "<group>"; };
+		0E0CFD3F185240A1001FC449 /* BTEncryption-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BTEncryption-Prefix.pch"; sourceTree = "<group>"; };
+		0E0CFD40185240A1001FC449 /* BTEncryption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTEncryption.h; sourceTree = "<group>"; };
+		0E0CFD41185240A1001FC449 /* BTEncryption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTEncryption.m; sourceTree = "<group>"; };
+		0E0CFD42185240A1001FC449 /* BTEncyption-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BTEncyption-Prefix.pch"; sourceTree = "<group>"; };
+		0E0CFD43185240A1001FC449 /* BTHmac.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTHmac.h; sourceTree = "<group>"; };
+		0E0CFD44185240A1001FC449 /* BTHmac.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTHmac.m; sourceTree = "<group>"; };
+		0E0CFD45185240A1001FC449 /* BTRandom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTRandom.h; sourceTree = "<group>"; };
+		0E0CFD46185240A1001FC449 /* BTRandom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTRandom.m; sourceTree = "<group>"; };
+		0E0CFD47185240A1001FC449 /* BTRSA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTRSA.h; sourceTree = "<group>"; };
+		0E0CFD48185240A1001FC449 /* BTRSA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTRSA.m; sourceTree = "<group>"; };
+		0E0CFD49185240A1001FC449 /* BTSecKeyWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTSecKeyWrapper.h; sourceTree = "<group>"; };
+		0E0CFD4A185240A1001FC449 /* BTSecKeyWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTSecKeyWrapper.m; sourceTree = "<group>"; };
+		0E0CFD4B185240A1001FC449 /* NSData+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Base64.h"; sourceTree = "<group>"; };
+		0E0CFD4C185240A1001FC449 /* NSData+Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Base64.m"; sourceTree = "<group>"; };
+		0E0CFD4D185240A1001FC449 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		0E31628F1853864D00DDF28C /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		0EF2F5391852A1B100B84C33 /* Billetera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Billetera.h; sourceTree = "<group>"; };
+		0EF2F53A1852A1B100B84C33 /* Billetera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Billetera.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +111,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E3162901853864D00DDF28C /* Security.framework in Frameworks */,
 				0E0CFCF1185223DC001FC449 /* CoreGraphics.framework in Frameworks */,
 				0E0CFCF3185223DC001FC449 /* UIKit.framework in Frameworks */,
 				0E0CFCEF185223DC001FC449 /* Foundation.framework in Frameworks */,
@@ -101,6 +153,7 @@
 		0E0CFCED185223DC001FC449 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				0E31628F1853864D00DDF28C /* Security.framework */,
 				0E0CFCEE185223DC001FC449 /* Foundation.framework */,
 				0E0CFCF0185223DC001FC449 /* CoreGraphics.framework */,
 				0E0CFCF2185223DC001FC449 /* UIKit.framework */,
@@ -114,9 +167,23 @@
 			children = (
 				0E0CFCFD185223DC001FC449 /* AppDelegate.h */,
 				0E0CFCFE185223DC001FC449 /* AppDelegate.m */,
+				0E0CFD3C185240A1001FC449 /* BTEncryption */,
+				0E0CFD381852404D001FC449 /* Model */,
 				0E0CFD00185223DC001FC449 /* Main.storyboard */,
 				0E0CFD03185223DC001FC449 /* ViewController.h */,
 				0E0CFD04185223DC001FC449 /* ViewController.m */,
+				0E0CFD2318523E27001FC449 /* BilleteraViewController.h */,
+				0E0CFD2418523E27001FC449 /* BilleteraViewController.m */,
+				0E0CFD3218523EFC001FC449 /* ComprasViewController.h */,
+				0E0CFD3318523EFC001FC449 /* ComprasViewController.m */,
+				0E0CFD2918523E63001FC449 /* AddTarjetaViewController.h */,
+				0E0CFD2A18523E63001FC449 /* AddTarjetaViewController.m */,
+				0E0CFD2C18523E75001FC449 /* FacturaViewController.h */,
+				0E0CFD2D18523E75001FC449 /* FacturaViewController.m */,
+				0E0CFD2F18523E9A001FC449 /* PagarViewController.h */,
+				0E0CFD3018523E9A001FC449 /* PagarViewController.m */,
+				0E0CFD3518523F86001FC449 /* ElegirTarjetaViewController.h */,
+				0E0CFD3618523F86001FC449 /* ElegirTarjetaViewController.m */,
 				0E0CFD06185223DC001FC449 /* Images.xcassets */,
 				0E0CFCF5185223DC001FC449 /* Supporting Files */,
 			);
@@ -150,6 +217,41 @@
 				0E0CFD16185223DC001FC449 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0E0CFD381852404D001FC449 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0E0CFD3918524085001FC449 /* Tarjeta.h */,
+				0E0CFD3A18524085001FC449 /* Tarjeta.m */,
+				0EF2F5391852A1B100B84C33 /* Billetera.h */,
+				0EF2F53A1852A1B100B84C33 /* Billetera.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		0E0CFD3C185240A1001FC449 /* BTEncryption */ = {
+			isa = PBXGroup;
+			children = (
+				0E0CFD3D185240A1001FC449 /* BTAES.h */,
+				0E0CFD3E185240A1001FC449 /* BTAES.m */,
+				0E0CFD3F185240A1001FC449 /* BTEncryption-Prefix.pch */,
+				0E0CFD40185240A1001FC449 /* BTEncryption.h */,
+				0E0CFD41185240A1001FC449 /* BTEncryption.m */,
+				0E0CFD42185240A1001FC449 /* BTEncyption-Prefix.pch */,
+				0E0CFD43185240A1001FC449 /* BTHmac.h */,
+				0E0CFD44185240A1001FC449 /* BTHmac.m */,
+				0E0CFD45185240A1001FC449 /* BTRandom.h */,
+				0E0CFD46185240A1001FC449 /* BTRandom.m */,
+				0E0CFD47185240A1001FC449 /* BTRSA.h */,
+				0E0CFD48185240A1001FC449 /* BTRSA.m */,
+				0E0CFD49185240A1001FC449 /* BTSecKeyWrapper.h */,
+				0E0CFD4A185240A1001FC449 /* BTSecKeyWrapper.m */,
+				0E0CFD4B185240A1001FC449 /* NSData+Base64.h */,
+				0E0CFD4C185240A1001FC449 /* NSData+Base64.m */,
+				0E0CFD4D185240A1001FC449 /* README.md */,
+			);
+			path = BTEncryption;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,6 +332,7 @@
 			files = (
 				0E0CFD07185223DC001FC449 /* Images.xcassets in Resources */,
 				0E0CFCF9185223DC001FC449 /* InfoPlist.strings in Resources */,
+				0E0CFD55185240A1001FC449 /* README.md in Resources */,
 				0E0CFD02185223DC001FC449 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -249,9 +352,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E0CFD50185240A1001FC449 /* BTHmac.m in Sources */,
+				0E0CFD2B18523E63001FC449 /* AddTarjetaViewController.m in Sources */,
 				0E0CFD05185223DC001FC449 /* ViewController.m in Sources */,
+				0E0CFD4F185240A1001FC449 /* BTEncryption.m in Sources */,
+				0E0CFD54185240A1001FC449 /* NSData+Base64.m in Sources */,
+				0E0CFD51185240A1001FC449 /* BTRandom.m in Sources */,
+				0E0CFD3118523E9A001FC449 /* PagarViewController.m in Sources */,
+				0E0CFD52185240A1001FC449 /* BTRSA.m in Sources */,
+				0E0CFD53185240A1001FC449 /* BTSecKeyWrapper.m in Sources */,
 				0E0CFCFF185223DC001FC449 /* AppDelegate.m in Sources */,
 				0E0CFCFB185223DC001FC449 /* main.m in Sources */,
+				0E0CFD3B18524085001FC449 /* Tarjeta.m in Sources */,
+				0E0CFD2518523E27001FC449 /* BilleteraViewController.m in Sources */,
+				0E0CFD4E185240A1001FC449 /* BTAES.m in Sources */,
+				0EF2F53B1852A1B100B84C33 /* Billetera.m in Sources */,
+				0E0CFD3418523EFC001FC449 /* ComprasViewController.m in Sources */,
+				0E0CFD2E18523E75001FC449 /* FacturaViewController.m in Sources */,
+				0E0CFD3718523F86001FC449 /* ElegirTarjetaViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -381,6 +499,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DemoMe/DemoMe-Prefix.pch";
 				INFOPLIST_FILE = "DemoMe/DemoMe-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SDKROOT)/usr/lib/system",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -394,6 +516,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DemoMe/DemoMe-Prefix.pch";
 				INFOPLIST_FILE = "DemoMe/DemoMe-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SDKROOT)/usr/lib/system",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -460,6 +586,7 @@
 				0E0CFD1F185223DC001FC449 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0E0CFD20185223DC001FC449 /* Build configuration list for PBXNativeTarget "DemoMeTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +595,7 @@
 				0E0CFD22185223DC001FC449 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
